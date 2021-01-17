@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao9_Post", "Secao9_Post\Secao9_Post.csproj", "{FE5DDF9F-4080-4CAD-9847-36E1D1D61270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5DDF9F-4080-4CAD-9847-36E1D1D61270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5DDF9F-4080-4CAD-9847-36E1D1D61270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5DDF9F-4080-4CAD-9847-36E1D1D61270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5DDF9F-4080-4CAD-9847-36E1D1D61270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6194EDC-AD19-4B52-816F-34196C159CC9}
+	EndGlobalSection
+EndGlobal
